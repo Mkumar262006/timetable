@@ -124,7 +124,7 @@ Execute the program
 
 
 # OUPUT
-![OUTPUT](https://github.com/Mkumar262006/timetable/assets/147139472/c4549d3e-7a04-45c2-85cd-6cf21ab027b8)
+![Output](timetable.png)
 
 # RESULT
  thus it has been executed successfully
