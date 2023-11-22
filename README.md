@@ -121,7 +121,7 @@ Execute the program
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
-
+```
 
 # OUPUT
 ![Output](timetable.png)
