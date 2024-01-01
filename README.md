@@ -18,8 +18,10 @@ Execute the program
 <title>SEC SLOT TIMETABLE</title>
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
+    <img src="logo.png"
+    height="100" width="600" align="'centre" border="2">
 
-<h2>  SLOT TIMETABLE-MANOJ KUMAR.S(23002959)</h2>
+<h2>  SLOT TIMETABLE-MANOJ KUMAR S (212223240082)</h2>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
@@ -46,6 +48,50 @@ Execute the program
 
 <tr>
     <th align="center" bgcolor="yellow">10-12</th>
+    <table border="4" width="600" cellspacing='4' cellpaddling='4'>
+
+        <tr>
+            <th align="center">S.No</th>
+            <th align="center">SUBJECT CODE</th> 
+            <th align="center">SUBJECT NAME</th>
+        </tr>
+        
+        <tr>
+            <td align="center">1</td>
+            <td align="center">19A1414</td>
+            <td align="centre">Fundamentals of Web Application Devlopment(FWAD)</td>
+        </tr>
+        
+        <tr>
+            <td align="center">2</td>
+            <td align="center">19EN612</td>
+            <td align="centre">German Basics (GER)</td>
+        </tr>
+        
+        <tr>
+            <td align="center">3</td>
+            <td align="center">19PH206</td>
+            <td align="centre">Physics for Information Technology</td>
+        </tr>
+        
+        <tr>
+            <td align="center">4</td> 
+            <td align="center">19CY205</td>
+            <td align="centre">Principles of Chemistry in Engineering(CHE)</td>
+        </tr>
+        
+        <tr>
+            <td align="center">5</td>
+            <td align="center">19MA201</td>
+            <td align="centre">Python and linear algebra (PLA)</td>
+        </tr>
+        
+        <tr>
+            <td align="center">6</td>
+            <td align="center">19EY701</td>
+            <td align="center">soft skills(SS)</td>
+        </tr>
+        </table>
     <td align="center" bgcolor="cyan">GER</td>
     <td align="center" bgcolor="cyan">FREE SLOT</td>
     <td align="center" bgcolor="cyan">CHE</td>
@@ -121,9 +167,10 @@ Execute the program
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
+
 ```
 
-# OUPUT
+# OUTPUT
 ![timetable](https://github.com/Mkumar262006/timetable/assets/147139472/ee8de422-8086-4233-8f4b-bc44db039f9a)
 
 
