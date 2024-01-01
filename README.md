@@ -21,7 +21,7 @@ Execute the program
     <img src="logo.png"
     height="100" width="600" align="'centre" border="2">
 
-<h2>  SLOT TIMETABLE-MANOJ KUMAR S (212223240082)</h2>
+<h2>  SLOT TIMETABLE-MANOJ KUMAR S (23002959)</h2>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
